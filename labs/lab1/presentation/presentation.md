@@ -208,7 +208,6 @@ header-includes:
 :::
 ::::::::::::::
 
-
 ##
 
 ![Брандмауэр](image/22.png){#fig:027 width=70%}
